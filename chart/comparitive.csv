@@ -1,0 +1,10 @@
+﻿Model,Database,Accuracy
+VGG-16,MNIST-DIGIT,92.4
+VGG-16,MNIST-Fashion,74.2
+VGG-16,Oracle-MNIST,52.6
+InceptionV3 ,MNIST-DIGIT,93.31
+InceptionV3 ,MNIST-Fashion,94.44
+InceptionV3 ,Oracle-MNIST,92.6
+Ours,MNIST-DIGIT,99.47
+Ours,MNIST-Fashion,95.03
+Ours,Oracle-MNIST,95.13
