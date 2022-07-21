@@ -6,3 +6,20 @@ extract meaningful features from this type of image due to its low resolution an
 # Method
 # Results
 # Citation
+    @misc{https://doi.org/10.48550/arxiv.2207.09531,
+      doi = {10.48550/ARXIV.2207.09531},
+
+      url = {https://arxiv.org/abs/2207.09531},
+
+      author = {Ganj, Ashkan and Ebadpour, Mohsen and Darvish, Mahdi and Bahador, Hamid},
+
+      keywords = {Computer Vision and Pattern Recognition (cs.CV), FOS: Computer and information sciences, FOS: Computer and information sciences, I.4.0},
+
+      title = {A Block-based Convolutional Neural Network for Low-Resolution Image Classification},
+
+      publisher = {arXiv},
+
+      year = {2022},
+
+      copyright = {Creative Commons Attribution 4.0 International}
+    }
