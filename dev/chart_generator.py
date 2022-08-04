@@ -2,6 +2,10 @@ import seaborn as sns
 import pandas as pd
 import matplotlib.pyplot as plt
 
+
+# set the font globally
+plt.rcParams.update({'font.family':'Times New Roman'})
+
 sns.set_theme(style="whitegrid", palette="tab10")
 
 def load_dataset(file_path):
