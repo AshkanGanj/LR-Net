@@ -1,5 +1,5 @@
-# LR-Net: A Block-Based-ImageClassification-Architecture
-> ### A Block-based Convolutional Neural Network for Low-Resolution Image Classification
+# LR-Net
+> ### LR-Net : A Block-based Convolutional Neural Network for Low-Resolution Image Classification
 > _Ashkan Ganj • Mohsen Ebadpour • Mahdi Darvish • Hamid Bahador_
 > 
 ><a href="https://arxiv.org/abs/2207.09531">https://arxiv.org/abs/2207.09531</a>
