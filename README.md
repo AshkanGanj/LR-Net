@@ -18,13 +18,4 @@ the meaningful features of models, and also enabled us to overcome the gradient 
 ![image](https://user-images.githubusercontent.com/55941654/183844145-7a63c67a-f35b-4dda-a7e6-5cd4dbbe8b78.png)
 
 # Citation
-    @misc{https://doi.org/10.48550/arxiv.2207.09531,
-      doi = {10.48550/ARXIV.2207.09531},
-      url = {https://arxiv.org/abs/2207.09531},
-      author = {Ganj, Ashkan and Ebadpour, Mohsen and Darvish, Mahdi and Bahador, Hamid},
-      keywords = {Computer Vision and Pattern Recognition (cs.CV), FOS: Computer and information sciences, FOS: Computer and information sciences, I.4.0},
-      title = {A Block-based Convolutional Neural Network for Low-Resolution Image Classification},
-      publisher = {arXiv},
-      year = {2022},
-      copyright = {Creative Commons Attribution 4.0 International}
-    }
+https://doi.org/10.1007/s40998-023-00618-5
