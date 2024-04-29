@@ -3,7 +3,12 @@
 > _Ashkan Ganj • Mohsen Ebadpour • Mahdi Darvish • Hamid Bahador_
 > 
 ><a href="https://doi.org/10.1007/s40998-023-00618-5">https://doi.org/10.1007/s40998-023-00618-5</a>
-<p style="text-align: justify">Abstract - The success of CNN-based architecture on image classification in learning and extracting features made them so popular these days, but the task of image classification becomes more challenging when we apply state of art models to classify noisy and low-quality images. It is still difficult for models to extract meaningful features from this type of image due to its low-resolution and the lack of meaningful global features. Moreover, high-resolution images need more layers to train which means they take more time and computational power to train. Our method also addresses the problem of vanishing gradients as the layers become deeper in deep neural networks that we mentioned earlier. In order to address all these issues, we developed a novel image classification architecture, composed of blocks that are designed to learn both low level and global features from blurred and noisy low-resolution images. Our design of the blocks was heavily influenced by Residual Connections and Inception modules in order to increase performance and reduce parameter sizes. We also assess our work using the MNIST family datasets, with a particular emphasis on the Oracle-MNIST dataset, which is the most difficult to classify due to its low-quality and noisy images. We have performed in-depth tests that demonstrate the presented architecture is faster and more accurate than existing cutting-edge convolutional neural networks. Furthermore, due to the unique properties of our model, it can produce a better result with fewer parameters. </p>
+# How to run
+Please download the Mnist-digit, Mnist-Fashion, and Mnist oracle datasets. 
+and run for trianing
+```bash
+python dev/LR-Net.py
+```
 
 # Method
 ![image](https://user-images.githubusercontent.com/55941654/183844100-9f79ccd5-0b6e-45f8-8197-d18041ae6d28.png)
@@ -17,5 +22,17 @@ the meaningful features of models, and also enabled us to overcome the gradient 
 
 ![image](https://user-images.githubusercontent.com/55941654/183844145-7a63c67a-f35b-4dda-a7e6-5cd4dbbe8b78.png)
 
+
+
 # Citation
-https://doi.org/10.1007/s40998-023-00618-5
+```
+@article{ganj2023lr,
+  title={LR-Net: A Block-based Convolutional Neural Network for Low-Resolution Image Classification},
+  author={Ganj, Ashkan and Ebadpour, Mohsen and Darvish, Mahdi and Bahador, Hamid},
+  journal={Iranian Journal of Science and Technology, Transactions of Electrical Engineering},
+  volume={47},
+  number={4},
+  pages={1561--1568},
+  year={2023},
+  publisher={Springer International Publishing Cham}
+```
