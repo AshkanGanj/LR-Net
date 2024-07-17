@@ -1,3 +1,9 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/a-block-based-convolutional-neural-network/image-classification-on-oracle-mnist)](https://paperswithcode.com/sota/image-classification-on-oracle-mnist?p=a-block-based-convolutional-neural-network)
+	
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/a-block-based-convolutional-neural-network/image-classification-on-fashion-mnist)](https://paperswithcode.com/sota/image-classification-on-fashion-mnist?p=a-block-based-convolutional-neural-network)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/a-block-based-convolutional-neural-network/image-classification-on-mnist)](https://paperswithcode.com/sota/image-classification-on-mnist?p=a-block-based-convolutional-neural-network)
+
 # LR-Net
 > ### LR-Net : A Block-based Convolutional Neural Network for Low-Resolution Image Classification
 > _Ashkan Ganj • Mohsen Ebadpour • Mahdi Darvish • Hamid Bahador_
