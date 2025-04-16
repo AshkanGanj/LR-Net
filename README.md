@@ -16,6 +16,8 @@ and run for trianing
 python dev/LR-Net.py
 ```
 
+## We don't maintain this ropository anymore and the code come as it is.
+
 # Method
 ![image](https://user-images.githubusercontent.com/55941654/183844100-9f79ccd5-0b6e-45f8-8197-d18041ae6d28.png)
 
